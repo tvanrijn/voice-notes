@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tvanrijn/voice-notes/precache-manifest.ae94053fb4d52a62dadfc7280d92129e.js"
+  "/voice-notes/precache-manifest.f2e42996f999ee5abdcb19d39fc0e263.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tvanrijn/voice-notes/index.html", {
+workbox.routing.registerNavigationRoute("/voice-notes/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

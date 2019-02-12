@@ -1,13 +1,13 @@
 {
-  "main.css": "/tvanrijn/voice-notes/static/css/main.20e97755.chunk.css",
-  "main.js": "/tvanrijn/voice-notes/static/js/main.f1fb634a.chunk.js",
-  "main.js.map": "/tvanrijn/voice-notes/static/js/main.f1fb634a.chunk.js.map",
-  "static/js/1.c77fe369.chunk.js": "/tvanrijn/voice-notes/static/js/1.c77fe369.chunk.js",
-  "static/js/1.c77fe369.chunk.js.map": "/tvanrijn/voice-notes/static/js/1.c77fe369.chunk.js.map",
-  "runtime~main.js": "/tvanrijn/voice-notes/static/js/runtime~main.0cbf3a82.js",
-  "runtime~main.js.map": "/tvanrijn/voice-notes/static/js/runtime~main.0cbf3a82.js.map",
-  "static/css/main.20e97755.chunk.css.map": "/tvanrijn/voice-notes/static/css/main.20e97755.chunk.css.map",
-  "index.html": "/tvanrijn/voice-notes/index.html",
-  "precache-manifest.ae94053fb4d52a62dadfc7280d92129e.js": "/tvanrijn/voice-notes/precache-manifest.ae94053fb4d52a62dadfc7280d92129e.js",
-  "service-worker.js": "/tvanrijn/voice-notes/service-worker.js"
+  "main.css": "/voice-notes/static/css/main.20e97755.chunk.css",
+  "main.js": "/voice-notes/static/js/main.37036c3e.chunk.js",
+  "main.js.map": "/voice-notes/static/js/main.37036c3e.chunk.js.map",
+  "static/js/1.c1c9169a.chunk.js": "/voice-notes/static/js/1.c1c9169a.chunk.js",
+  "static/js/1.c1c9169a.chunk.js.map": "/voice-notes/static/js/1.c1c9169a.chunk.js.map",
+  "runtime~main.js": "/voice-notes/static/js/runtime~main.fb1967f0.js",
+  "runtime~main.js.map": "/voice-notes/static/js/runtime~main.fb1967f0.js.map",
+  "static/css/main.20e97755.chunk.css.map": "/voice-notes/static/css/main.20e97755.chunk.css.map",
+  "index.html": "/voice-notes/index.html",
+  "precache-manifest.f2e42996f999ee5abdcb19d39fc0e263.js": "/voice-notes/precache-manifest.f2e42996f999ee5abdcb19d39fc0e263.js",
+  "service-worker.js": "/voice-notes/service-worker.js"
 }
