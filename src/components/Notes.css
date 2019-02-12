@@ -1,0 +1,13 @@
+#notes {
+    resize: none;
+    overflow: auto;
+    margin: 2rem;
+    border: 1px solid black;
+    padding: 1rem;
+    font-size: 1.5rem;
+    width: 80%;;
+    height: auto;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}

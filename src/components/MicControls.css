@@ -1,0 +1,30 @@
+.micControls {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#mic {
+    padding: 2px;
+    margin: 16px;
+    margin-top: 18px;
+    opacity: 0.3;
+    transition: all .3s ease-in-out;
+}
+
+#mic.active{
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0% {
+      opacity: 0.3;
+    }
+    50% {
+      opacity: 1.0;
+    }
+    100% {
+        opacity: 0.3;
+    }
+  }
+  
